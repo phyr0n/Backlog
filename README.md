@@ -1,2 +1,2 @@
 # Backlog [![Licence](https://img.shields.io/github/license/phyr0n/Backlog)](https://github.com/phyr0n/Backlog/blob/master/LICENSE)
-Video game collection software.
+Backlog is a video game collection database.
